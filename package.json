@@ -53,7 +53,7 @@
     "pretty-format": "^27.2.4"
   },
   "dependencies": {
-    "expect": "^26.6.2",
+    "expect": "^27.0.0",
     "jest-get-type": "^27.0.6",
     "jest-matcher-utils": "^27.2.4"
   },
